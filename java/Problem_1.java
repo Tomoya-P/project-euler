@@ -1,4 +1,5 @@
-class Problem1 {
+package java;
+class Problem_1 {
   public static void main(String args[]) {
     int sum = 0;
     for(int a = 0; a < 1000; a++){
