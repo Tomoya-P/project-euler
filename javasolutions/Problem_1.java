@@ -1,4 +1,5 @@
-package java;
+package javasolutions;
+
 class Problem_1 {
   public static void main(String args[]) {
     int sum = 0;
